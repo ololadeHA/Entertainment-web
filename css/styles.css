@@ -1,0 +1,12 @@
+h1{
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h6{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+  background-color: lightblue;
+}
+h6{
+  background-color: rgb(179, 203, 211);
+}
